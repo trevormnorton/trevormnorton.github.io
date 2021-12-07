@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trevor Norton: Ph.D. Candidate in Mathematics"
+title                    : "Trevor Norton"
 title_separator          : "-"
 name                     : &name "Trevor Norton"
 description              : &description "Ph.D. candidate in Mathematics at Boston University and prospective Data Scientist"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Trevor Norton"
   avatar           : "profile.png"
-  bio              : "I am currently a fourth year Ph.D. student in the Mathematics at Boston University. My research focuses on Partial Differential Equations, Dynamical Systems, and Mathematical Physics."
-  location         : "Location"
+  bio              : "Fourth year Ph.D. student in the Mathematics at Boston University"
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "trevormnorton@gmail.com"
+  email            : "nortontm@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
