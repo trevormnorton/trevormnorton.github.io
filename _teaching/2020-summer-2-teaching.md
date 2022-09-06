@@ -1,5 +1,5 @@
 ---
-title: "Summer 2, 2020: Discrete Mathematics"
+title: "Summer 2, 2020 | Discrete Mathematics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-summer-2-teaching
