@@ -1,7 +1,7 @@
 ---
-title: "Linear Algebra &#124; Summer 1, 2019"
+title: "Linear Algebra &#242; Summer 1, 2019"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor"
 permalink: /teaching/2019-summer-1-teaching
 venue: "Boston University, Mathematics and Statistics"
 date: 2019-05-21

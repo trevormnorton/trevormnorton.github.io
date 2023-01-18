@@ -1,7 +1,7 @@
 ---
 title: "Discrete Mathematics &#124; Summer 2, 2020"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor"
 permalink: /teaching/2020-summer-2-teaching
 venue: "Boston University, Mathematics and Statistics"
 date: 2020-07-06
