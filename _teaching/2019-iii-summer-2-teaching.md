@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra &#242; Summer 2, 2019"
+title: "Linear Algebra &#124; Summer 2, 2019"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2019-summer-2-teaching

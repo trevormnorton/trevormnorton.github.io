@@ -1,5 +1,5 @@
 ---
-title: "Calculus I &#123; Summer 2, 2022"
+title: "Calculus I &#124; Summer 2, 2022"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2022-summer-2-teaching
