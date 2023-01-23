@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Analyticity of the solution to the Nonlinear Poisson Bolztmann Equation"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/1a63-Vol-Potential-3.png'>"
 collection: portfolio
