@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Probability in Computing &#124; Fall, 2019"
 collection: teaching
 type: "Teaching Assistant"
