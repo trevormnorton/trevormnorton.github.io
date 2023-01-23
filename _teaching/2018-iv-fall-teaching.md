@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Statistics I &#124; Fall, 2018"
 collection: teaching
 type: "Teaching Assistant"
