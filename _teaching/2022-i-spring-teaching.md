@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Basic Statistics and Probability &#124; Spring, 2022"
 collection: teaching
 type: "Teaching Assistant"
