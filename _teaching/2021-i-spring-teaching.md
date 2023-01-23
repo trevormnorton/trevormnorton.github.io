@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Multivariate Calculus &#124; Spring, 2021"
 collection: teaching
 type: "Teaching Assistant"
