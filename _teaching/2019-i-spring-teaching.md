@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Differential Equations &#124; Spring, 2019"
 collection: teaching
 type: "Teaching Assistant"
