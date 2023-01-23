@@ -1,6 +1,6 @@
----
-title: "Travelling waves on the FPUT lattice"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+﻿---
+title: "Analyticity of the solution to the Nonlinear Poisson Bolztmann Equation"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/1a63-Vol-Potential-3.png'>"
 collection: portfolio
 ---
 
