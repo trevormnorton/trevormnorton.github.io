@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Basic Statistics and Probability &#124; Spring, 2023"
 collection: teaching
 type: "Lab Coordinator"
