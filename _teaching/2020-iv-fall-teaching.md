@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Combinatoric Structures &#124; Fall, 2020"
 collection: teaching
 type: "Teaching Assistant"
