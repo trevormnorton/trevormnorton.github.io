@@ -1,6 +1,6 @@
 ---
 title: "Analyticity of the solution to the Nonlinear Poisson Boltzmann Equation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/1a63-Vol-Potential-3.png'>"
+excerpt: "This project shows solutions of the NPBE are analytic with respect to its parameters.<br/><img src='/images/1a63-Vol-Potential-3.png'>"
 collection: portfolio
 ---
 
