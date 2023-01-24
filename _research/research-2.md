@@ -1,7 +1,7 @@
 ---
-title: "Analyticity of the solution to the Nonlinear Poisson Bolztmann Equation"
+title: "Analyticity of the solution to the Nonlinear Poisson Boltzmann Equation"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/1a63-Vol-Potential-3.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Nonlinear Poisson Boltzmann Equation (NPBE) is a model frequently used for protein interations inside an ionic fluid. This project shows that under certain assumptions that the solutions of the NPBE vary analytically with respect to the parameters. This result has applications to Uncertainty Quantification when modeling ligand-receptor interactions. 
