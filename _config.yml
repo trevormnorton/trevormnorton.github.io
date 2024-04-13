@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Trevor Norton"
 title_separator          : "-"
 name                     : &name "Trevor Norton"
-description              : &description "Ph.D. candidate in Mathematics at Boston University and prospective Data Scientist"
+description              : &description "Machine Learning Researcher at Virginia Tech"
 url                      : https://trevormnorton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trevormnorton/trevormnorton.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Trevor Norton"
   avatar           : "pfp.jpeg"
-  bio              : "Fifth year Ph.D. student in Mathematics at Boston University"
-  location         : "Boston, MA"
+  bio              : "Machine Learning Researcher at Virgina Tech"
+  location         : "Blacksburg, VA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "nortontm@bu.edu"
+  email            : "norton15@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
